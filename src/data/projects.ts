@@ -42,9 +42,8 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "/images/projects/chatbuzz.png",
     ],
     description: "ChatApp using MERN Stack.",
-    sourceCodeHref:
-      "https://github.com/rawani123/Chat-App",
-      liveWebsiteHref: "https://chat-app-gamma-rosy-11.vercel.app/"
+    sourceCodeHref: "https://github.com/rawani123/Chat-App",
+    liveWebsiteHref: "https://chat-app-gamma-rosy-11.vercel.app/",
   },
   {
     name: "SnapChat Clone",
@@ -64,5 +63,6 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "My personal portfolio website built using Next.js, Tailwind CSS, and Framer Motion.",
     sourceCodeHref: "https://github.com/kartik0323/kartikportfolio23",
-    },
+  },
 ];
+

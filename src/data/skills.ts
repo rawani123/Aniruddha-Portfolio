@@ -8,14 +8,7 @@ import HtmlSvg from "@/public/icons/html.svg";
 import JavascriptSvg from "@/public/icons/javascript.svg";
 import PythonSvg from "@/public/icons/python.svg";
 
-// Libraries
-import AE from "@/public/icons/AE.svg";
-import AI from "@/public/icons/AI.svg";
-import CI from "@/public/icons/CI.svg";
-import FI from "@/public/icons/FI.svg";
-import PR from "@/public/icons/PR.svg";
-import PS from "@/public/icons/PS.svg";
-import XD from "@/public/icons/XD.svg";
+
 
 // Backend
 import NodejsSvg from "@/public/icons/nodejs.svg";

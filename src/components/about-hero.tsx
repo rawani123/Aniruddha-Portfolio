@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function AboutHero() {
   return (
     <div className="mx-auto mt-0 flex max-w-7xl flex-col items-center gap-6 px-6 pt-20 text-center sm:px-14 md:mt-20 md:px-20 lg:mt-0 lg:flex-row lg:text-left">
-      <div className="flex w-full h-full pb-12 items-center justify-center sm:w-1/2 md:w-2/3 lg:inline-block lg:h-full lg:w-1/2">
+      <div className="flex h-full w-full items-center justify-center pb-12 sm:w-1/2 md:w-2/3 lg:inline-block lg:h-full lg:w-1/2">
         <AnimatePresence>
           <FadeUp key="hero-image" duration={0.6}>
             <Image

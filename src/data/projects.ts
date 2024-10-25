@@ -65,4 +65,3 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     sourceCodeHref: "https://github.com/kartik0323/kartikportfolio23",
   },
 ];
-

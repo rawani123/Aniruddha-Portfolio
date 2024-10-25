@@ -8,8 +8,6 @@ import HtmlSvg from "@/public/icons/html.svg";
 import JavascriptSvg from "@/public/icons/javascript.svg";
 import PythonSvg from "@/public/icons/python.svg";
 
-
-
 // Backend
 import NodejsSvg from "@/public/icons/nodejs.svg";
 import react from "@/public/icons/reactjs.svg";

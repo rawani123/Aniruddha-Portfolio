@@ -1,5 +1,6 @@
 import { type ProjectCardProps } from "@/components/projects/project-card";
 import { type ProjectShowcaseListItem } from "@/components/projects/project-showcase-list";
+
 // Remove the following line if siteMetadata is not used
 // import { siteMetadata } from "@/data/siteMetaData.mjs";
 
@@ -14,6 +15,7 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListItem[] = [
       DARK: "/images/projects/chatbuzz.png",
     },
   },
+
   {
     index: 1,
     title: "SnapChat Clone",
@@ -45,6 +47,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     sourceCodeHref: "https://github.com/rawani123/Chat-App",
     liveWebsiteHref: "https://chat-app-gamma-rosy-11.vercel.app/",
   },
+
   {
     name: "SnapChat Clone",
     favicon: "/images/projects/logos/reactjs.ico",
@@ -56,6 +59,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "A Snapchat Clone is an app for real-time chat and snap uploads, allowing users to send disappearing photos and videos to friends.",
     sourceCodeHref: "https://github.com/rawani123/snapchat-clone",
   },
+
   {
     name: "My Portfolio",
     favicon: "/favicon.ico",
